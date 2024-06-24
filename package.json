@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "dotenv": "^16.4.5",
+    "dropbox": "^10.34.0",
+    "dropbox-v2-api": "^2.5.11",
+    "express": "^4.19.2",
+    "isomorphic-fetch": "^3.0.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
